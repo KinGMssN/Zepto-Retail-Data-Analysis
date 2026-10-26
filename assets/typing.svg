@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="50" viewBox="0 0 720 50">
+<g font-family="Fira Code, Consolas, monospace" font-size="21" font-weight="600" fill="#7C3AED">
+<text x="360" y="32" text-anchor="middle" opacity="0">📦 Zepto inventory data from Kaggle<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.22;0.25;1" dur="12s" begin="0s" repeatCount="indefinite"/></text>
+<text x="360" y="32" text-anchor="middle" opacity="0">🐘 Queried with SQL in PostgreSQL (pgAdmin)<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.22;0.25;1" dur="12s" begin="3s" repeatCount="indefinite"/></text>
+<text x="360" y="32" text-anchor="middle" opacity="0">🧹 Cleaned, enriched and explored<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.22;0.25;1" dur="12s" begin="6s" repeatCount="indefinite"/></text>
+<text x="360" y="32" text-anchor="middle" opacity="0">💡 12 business questions answered<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.22;0.25;1" dur="12s" begin="9s" repeatCount="indefinite"/></text>
+</g></svg>
